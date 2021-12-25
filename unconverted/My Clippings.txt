@@ -1,0 +1,740 @@
+﻿Wordiness  
+- Your Highlight on page 4-4 | Added on Thursday, 12 November 2020 23:37:41
+
+Four-Step Plan1. Diagnose 2. Cut 3. Tighten 4. Tighten again
+==========
+﻿Wordiness  
+- Your Note on page 4 | Added on Thursday, 12 November 2020 23:38:00
+
+step 1
+==========
+George B. Thomas Jr., Maurice D. Weir, Joel R. Hass-Thomas' Calculus_ Early Transcendentals (13th Edition)-Pearson (2013)  
+- Your Note on page 59 | Added on Friday, 13 November 2020 03:30:07
+
+code
+==========
+George B. Thomas Jr., Maurice D. Weir, Joel R. Hass-Thomas' Calculus_ Early Transcendentals (13th Edition)-Pearson (2013)  
+- Your Highlight on page 59-59 | Added on Friday, 13 November 2020 03:30:07
+
+y = 16t
+==========
+George B. Thomas Jr., Maurice D. Weir, Joel R. Hass-Thomas' Calculus_ Early Transcendentals (13th Edition)-Pearson (2013)  
+- Your Highlight on page 60-60 | Added on Friday, 13 November 2020 03:31:27
+
+TAble 2.1 Average speeds over short time intervals 3 t0, t0 + h4 ∆y 16Average speed: (t0 + h) 2 - 16t0 2 = ∆t h Length of Average speed over Average speed over time interval interval of length h interval of length h h starting at t0 = 1 starting at t0 = 2 1 48 80 0.1 33.6 65.6 0.01 32.16 64.16 0.001 32.016 64.016 0.0001 32.0016 64.0016
+==========
+George B. Thomas Jr., Maurice D. Weir, Joel R. Hass-Thomas' Calculus_ Early Transcendentals (13th Edition)-Pearson (2013)  
+- Your Note on page 60 | Added on Friday, 13 November 2020 03:31:35
+
+im table
+==========
+Harry Potter and the Sorcerer's Stone (J. K. Rowling)
+- Your Highlight at location 43-43 | Added on Friday, 13 November 2020 23:42:47
+
+unDursleyish
+==========
+Harry Potter and the Sorcerer's Stone (J. K. Rowling)
+- Your Highlight at location 49-49 | Added on Friday, 13 November 2020 23:44:05
+
+tawny
+==========
+Pakistan: A Personal History (Imran Khan)
+- Your Highlight at location 207-207 | Added on Saturday, 14 November 2020 03:21:01
+
+stymied
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 27-28 | Added on Saturday, 14 November 2020 03:40:33
+
+It’s one of my theories that when people give you advice, they’re
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 27-28 | Added on Saturday, 14 November 2020 03:40:43
+
+It’s one of my theories that when people give you advice, they’re really just talking to themselves in the past.
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 26-28 | Added on Saturday, 14 November 2020 03:41:00
+
+viii It’s one of my theories that when people give you advice, they’re really just talking to themselves in the past.
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 27-28 | Added on Saturday, 14 November 2020 03:41:14
+
+It’s one of my theories that when people give you advice, they’re really just talking to themselves in the past.
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 44-46 | Added on Saturday, 14 November 2020 04:25:42
+
+now. “The only art I’ll ever study is stuff that I can steal from.” —David Bowie
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 44-46 | Added on Saturday, 14 November 2020 04:25:50
+
+“The only art I’ll ever study is stuff that I can steal from.” —David Bowie
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 54-55 | Added on Saturday, 14 November 2020 04:28:01
+
+“What is originality? Undetected plagiarism.” —William Ralph Inge
+==========
+Pakistan: A Personal History (Imran Khan)
+- Your Highlight at location 221-221 | Added on Saturday, 14 November 2020 14:42:35
+
+humiliations
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 120-121 | Added on Saturday, 14 November 2020 14:53:01
+
+“It is better to take what does not belong to you than to let it lie around neglected.” —Mark Twain
+==========
+Milk and honey \( PDFDrive.com \).mobi (Rupi Kaur)
+- Your Highlight at location 80-80 | Added on Sunday, 15 November 2020 10:21:46
+
+collateral
+==========
+Howard Anton, Irl C. Bivens, Stephen Davis Calculus Early Transcendentals, 10th 2012  
+- Your Highlight on page 72-72 | Added on Tuesday, 17 November 2020 16:25:51
+
+as f (x )→L as x→a + and f (x )→L as x→a − respectivelyindicates a limit from the left. This leads to the general idea of a one-sided limit. 1.1.2 one-sided limits (an informal view) If the values of f (x ) can be made as close as we like to L by taking values of x sufﬁciently close to a (but greater than a), then we write lim f (x ) = L (14) x→a+ and if the values of f (x )
+==========
+Howard Anton, Irl C. Bivens, Stephen Davis Calculus Early Transcendentals, 10th 2012  
+- Your Highlight on page 72-72 | Added on Tuesday, 17 November 2020 16:26:24
+
+1.1.2 one-sided limits (an informal view) If the values of f (x ) can be made as close as we like to L by taking values of x sufﬁciently close to a (but greater than a), then we write lim f (x ) = L (14) x→a+ and if the values of f (x ) can be made as close as we like to L by taking values of x sufﬁciently close to a (but less than a), then we write lim f (x ) = L (15) x→a− Expression (14) is read “the limit of f (x ) as x approaches a from the right is L” or “f (x ) approaches L as x approaches a from the right. ” Similarly, expression (15) is read “the limit of f (x ) as x approaches a from the left is L” or “f (x ) approaches L as x approaches a from the left. ”
+==========
+Howard Anton, Irl C. Bivens, Stephen Davis Calculus Early Transcendentals, 10th 2012  
+- Your Note on page 72 | Added on Tuesday, 17 November 2020 16:26:48
+
+one sided limits informal
+==========
+Howard Anton, Irl C. Bivens, Stephen Davis Calculus Early Transcendentals, 10th 2012  
+- Your Highlight on page 73-73 | Added on Tuesday, 17 November 2020 16:33:36
+
+1.1.3 the relationship between one-sided and two-sided limits The twosided limit of a function f (x ) exists at a if and only if both of the one-sided limits exist at a and have the same value; that is, lim f (x ) = L if and only if lim f (x ) = L = lim
+==========
+Howard Anton, Irl C. Bivens, Stephen Davis Calculus Early Transcendentals, 10th 2012  
+- Your Note on page 73 | Added on Tuesday, 17 November 2020 16:33:55
+
+rel between one and two sided li.its
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 150-150 | Added on Tuesday, 17 November 2020 17:04:19
+
+bohemian gypsy
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 170-170 | Added on Tuesday, 17 November 2020 17:08:11
+
+Salvador Dalí said, “Those who do not want to imitate anything, produce nothing.”
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 271-271 | Added on Tuesday, 17 November 2020 17:34:38
+
+uptight
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 281-281 | Added on Tuesday, 17 November 2020 17:36:36
+
+(Unlike a hard drive, paper doesn’t crash.)
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 283-283 | Added on Tuesday, 17 November 2020 17:37:21
+
+aisle
+==========
+Kafka on the Shore \( PDFDrive.com \).mobi (Haruki Murakami)
+- Your Highlight at location 80-80 | Added on Saturday, 21 November 2020 04:01:26
+
+ominous
+==========
+Kafka on the Shore \( PDFDrive.com \).mobi (Haruki Murakami)
+- Your Highlight at location 83-83 | Added on Saturday, 21 November 2020 04:02:45
+
+pulverized
+==========
+Kafka on the Shore \( PDFDrive.com \).mobi (Haruki Murakami)
+- Your Highlight at location 93-93 | Added on Saturday, 21 November 2020 04:04:24
+
+have to make it through that violent, metaphysical,
+==========
+Kafka on the Shore \( PDFDrive.com \).mobi (Haruki Murakami)
+- Your Highlight at location 93-93 | Added on Saturday, 21 November 2020 04:04:34
+
+metaphysical,
+==========
+Kafka on the Shore \( PDFDrive.com \).mobi (Haruki Murakami)
+- Your Highlight at location 105-105 | Added on Saturday, 21 November 2020 04:06:27
+
+heft.
+==========
+Kafka on the Shore \( PDFDrive.com \).mobi (Haruki Murakami)
+- Your Highlight at location 110-110 | Added on Saturday, 21 November 2020 04:07:31
+
+grins
+==========
+Kafka on the Shore \( PDFDrive.com \).mobi (Haruki Murakami)
+- Your Highlight at location 112-112 | Added on Saturday, 21 November 2020 04:08:13
+
+undaunted,
+==========
+Kafka on the Shore \( PDFDrive.com \).mobi (Haruki Murakami)
+- Your Highlight at location 120-120 | Added on Saturday, 21 November 2020 06:13:31
+
+chuck
+==========
+Kafka on the Shore \( PDFDrive.com \).mobi (Haruki Murakami)
+- Your Highlight at location 147-147 | Added on Saturday, 21 November 2020 06:20:27
+
+devouring
+==========
+Kafka on the Shore \( PDFDrive.com \).mobi (Haruki Murakami)
+- Your Highlight at location 194-194 | Added on Saturday, 21 November 2020 06:34:53
+
+chintzy
+==========
+Kafka on the Shore \( PDFDrive.com \).mobi (Haruki Murakami)
+- Your Highlight at location 198-198 | Added on Saturday, 21 November 2020 06:36:04
+
+omen
+==========
+Kafka on the Shore \( PDFDrive.com \).mobi (Haruki Murakami)
+- Your Highlight at location 234-234 | Added on Saturday, 21 November 2020 06:42:01
+
+prefecture.
+==========
+Kafka on the Shore \( PDFDrive.com \).mobi (Haruki Murakami)
+- Your Highlight at location 265-266 | Added on Sunday, 22 November 2020 03:19:33
+
+the main trail up the hill and went along a trampled-down
+==========
+Kafka on the Shore \( PDFDrive.com \).mobi (Haruki Murakami)
+- Your Highlight at location 265-266 | Added on Sunday, 22 November 2020 03:19:35
+
+the main trail up the hill and went along a trampled-down
+==========
+Kafka on the Shore \( PDFDrive.com \).mobi (Haruki Murakami)
+- Your Highlight at location 266-266 | Added on Sunday, 22 November 2020 03:19:42
+
+trampled-down
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers \( PDFDrive.com \).mobi (Ben Horowitz)
+- Your Highlight at location 107-110 | Added on Saturday, 28 November 2020 16:05:51
+
+job as a schoolteacher during the McCarthy era. My father was a red-diaper baby and grew up indoctrinated in the philosophy of the left. In 1968, he moved our family west to Berkeley, California, and became editor of the famed New Left magazine Ramparts. As a result, I grew up in the city affectionately known by its inhabitants as the People’s Republic of Berkeley.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers \( PDFDrive.com \).mobi (Ben Horowitz)
+- Your Highlight at location 107-110 | Added on Saturday, 28 November 2020 16:05:58
+
+job as a schoolteacher during the McCarthy era. My father was a red-diaper baby and grew up indoctrinated in the philosophy of the left. In 1968, he moved our family west to Berkeley, California, and became editor of the famed New Left magazine Ramparts. As a result, I grew up in the city affectionately known by its inhabitants as the People’s Republic of Berkeley.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers \( PDFDrive.com \).mobi (Ben Horowitz)
+- Your Highlight at location 115-115 | Added on Saturday, 28 November 2020 16:06:29
+
+When I was five years old, we moved from a one-bedroom house
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers \( PDFDrive.com \).mobi (Ben Horowitz)
+- Your Highlight at location 170-171 | Added on Saturday, 28 November 2020 16:06:43
+
+time to communicate this message would have been before
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers \( PDFDrive.com \).mobi (Ben Horowitz)
+- Your Highlight at location 170-171 | Added on Saturday, 28 November 2020 16:18:43
+
+time to communicate this message would have been before
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers \( PDFDrive.com \).mobi (Ben Horowitz)
+- Your Highlight at location 170-171 | Added on Saturday, 28 November 2020 16:19:30
+
+time to communicate this message would have been before
+==========
+Kafka on the Shore \( PDFDrive.com \).mobi (Haruki Murakami)
+- Your Highlight at location 1197-1197 | Added on Friday, 8 January 2021 00:31:05
+
+backpack.
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 25-25 | Added on Sunday, 31 January 2021 03:33:42
+
+schmoozing
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 29-29 | Added on Sunday, 31 January 2021 03:34:31
+
+leverage
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 33-34 | Added on Sunday, 31 January 2021 03:38:13
+
+If Steal Like an Artist was a book about stealing influence from other people, this book is about how to influence others by letting them steal from you.
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 43-45 | Added on Sunday, 31 January 2021 03:48:59
+
+“Give what you have. To someone, it may be better than you dare to think.” —Henry Wadsworth Longfellow
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 52-52 | Added on Sunday, 31 January 2021 03:51:54
+
+group of creative individuals—artists, curators,
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 52-52 | Added on Sunday, 31 January 2021 03:52:16
+
+group of creative individuals—artists, curators,
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 50-50 | Added on Sunday, 31 January 2021 03:54:02
+
+gawk
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 51-51 | Added on Sunday, 31 January 2021 03:56:21
+
+“scenius.”
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 64-64 | Added on Sunday, 31 January 2021 04:02:54
+
+sceniuses
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 69-70 | Added on Sunday, 31 January 2021 04:06:56
+
+“That’s all any of us are: amateurs. We don’t live long enough to be anything else.” —Charlie Chaplin
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 74-74 | Added on Sunday, 31 January 2021 04:10:41
+
+whims.
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 77-77 | Added on Sunday, 31 January 2021 04:13:02
+
+Cognitive Surplus.
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 33-34 | Added on Sunday, 31 January 2021 04:19:34
+
+If Steal Like an Artist was a book about stealing influence from other people, this book is about how to influence others by letting them steal from you.
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 33-34 | Added on Sunday, 31 January 2021 04:19:35
+
+If Steal Like an Artist was a book about stealing influence from other people, this book is about how to influence others by letting them steal from you.
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 33-34 | Added on Sunday, 31 January 2021 04:19:37
+
+If Steal Like an Artist was a book about stealing influence from other people, this book is about how to influence others by letting them steal from you.
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 43-45 | Added on Sunday, 31 January 2021 04:19:53
+
+“Give what you have. To someone, it may be better than you dare to think.” —Henry Wadsworth Longfellow
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 99-99 | Added on Sunday, 31 January 2021 05:33:56
+
+amateurism
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 131-132 | Added on Sunday, 31 January 2021 05:48:28
+
+Tim Kreider, in his book We Learn Nothing,
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 131-132 | Added on Sunday, 31 January 2021 05:48:33
+
+Tim Kreider, in his book We Learn Nothing,
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Note at location 131 | Added on Sunday, 31 January 2021 05:48:48
+
+book refrence 
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 141-141 | Added on Sunday, 31 January 2021 05:52:26
+
+Obituaries
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 158-158 | Added on Sunday, 31 January 2021 23:18:37
+
+toil
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 29-29 | Added on Sunday, 21 February 2021 00:28:25
+
+leverage
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 29-29 | Added on Sunday, 21 February 2021 00:28:31
+
+leverage
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 29-29 | Added on Sunday, 21 February 2021 00:28:48
+
+leverage
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 50-50 | Added on Sunday, 21 February 2021 10:53:23
+
+gawk
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 50-50 | Added on Sunday, 21 February 2021 10:53:29
+
+gawk
+==========
+Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered \( PDFDrive.com \).mobi (Kleon, Austin)
+- Your Highlight at location 51-51 | Added on Sunday, 21 February 2021 10:54:19
+
+“scenius.”
+==========
+Html & Css  
+- Your Highlight on page 229-229 | Added on Tuesday, 9 March 2021 21:39:58
+
+The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element.
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 18-18 | Added on Tuesday, 9 March 2021 21:47:20
+
+“Art is theft.” —Pablo Picasso
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 20-21 | Added on Tuesday, 9 March 2021 21:47:31
+
+“Immature poets imitate; mature poets steal; bad poets deface what they take,
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 47-48 | Added on Tuesday, 9 March 2021 21:50:34
+
+The writer Jonathan Lethem has said that when people call something “original,” nine out of ten times they just don’t know the references or the original sources involved.
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 49-50 | Added on Tuesday, 9 March 2021 21:51:07
+
+It’s right there in the Bible: “There is nothing new under the sun.” (Ecclesiastes 1:9)
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 49-50 | Added on Tuesday, 9 March 2021 21:51:31
+
+It’s right there in the Bible: “There is nothing new under the sun.” (Ecclesiastes 1:9)
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 74-75 | Added on Tuesday, 9 March 2021 21:53:44
+
+The artist is a collector. Not a hoarder, mind you, there’s a difference: Hoarders collect indiscriminately, artists collect selectively. They only collect things that they really love.
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 89-91 | Added on Tuesday, 9 March 2021 21:55:27
+
+Instead, chew on one thinker—writer, artist, activist, role model—you really love. Study everything there is to know about that thinker. Then find three people that thinker loved, and find out everything about them. Repeat this as many times as you can. Climb up the tree as far as you can go. Once you build your tree, it’s time to start your own branch.
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 107-107 | Added on Friday, 12 March 2021 16:47:11
+
+bibliographies.
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 113-113 | Added on Thursday, 18 March 2021 21:53:24
+
+always have paper on you. Artist David
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 113-115 | Added on Thursday, 18 March 2021 21:53:37
+
+always have paper on you. Artist David Hockney had all the inside pockets of his suit jackets tailored to fit a sketchbook. The musician Arthur Russell liked to wear shirts with two front pockets so he could fill them with scraps of score sheets.
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 135-135 | Added on Thursday, 18 March 2021 21:56:06
+
+dramaturgy?
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 175-176 | Added on Thursday, 18 March 2021 22:01:34
+
+“If you have one person you’re influenced by, everyone will say you’re the next whoever. But if you rip off a hundred people, everyone will say you’re so original!”
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 211-211 | Added on Friday, 26 March 2021 01:57:57
+
+ensue.
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 228-231 | Added on Friday, 26 March 2021 02:01:34
+
+We crave sequels. Why not channel that desire into something productive? Think about your favorite work and your creative heroes. What did they miss? What didn’t they make? What could’ve been made better? If they were still alive, what would they be making today? If all your favorite makers got together and collaborated, what would they make with you leading the crew?
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 262-263 | Added on Friday, 26 March 2021 02:35:20
+
+“In the old days before creative writing programs, a workshop was a place, often a basement, where you sawed or hammered, drilled or planed something.”
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 291-294 | Added on Friday, 26 March 2021 02:41:19
+
+“The work you do while you procrastinate is probably the work you should be doing for the rest of your life.” —Jessica Hische
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 300-300 | Added on Friday, 26 March 2021 02:42:20
+
+Take time to be bored. One time I heard a coworker say, “When I get busy, I get stupid.” Ain’t
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 303-304 | Added on Friday, 26 March 2021 02:43:20
+
+If you’re out of ideas, wash the dishes. Take a really long walk. Stare at a spot on the wall for as long as you can. As the artist Maira Kalman
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 303-304 | Added on Friday, 26 March 2021 02:43:30
+
+you’re out of ideas, wash the dishes. Take a really long walk. Stare at a spot on the wall for as long as you can. As the artist Maira Kalman says, “Avoiding work is the way to focus my mind.”
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 303-304 | Added on Friday, 26 March 2021 02:43:36
+
+If you’re out of ideas, wash the dishes. Take a really long walk. Stare at a spot on the wall for as long as you can. As the artist Maira Kalman
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 303-304 | Added on Friday, 26 March 2021 02:43:44
+
+If you’re out of ideas, wash the dishes. Take a really long walk. Stare at a spot on the wall for as long as you can. As the artist Maira Kalman says, “Avoiding work is the way to focus my mind.”
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 303-304 | Added on Friday, 26 March 2021 02:44:09
+
+If you’re out of ideas, wash the dishes. Take a really long walk. Stare at a spot on the wall for as long as you can. As the artist Maira Kalman says, “Avoiding work is the way to focus my mind.”
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 148-150 | Added on Monday, 5 April 2021 16:29:57
+
+math and science. Henri Poincaré was a nineteenth-century mathematician who once described how he cracked a difficult mathematical problem that he had been intensively working on for weeks without success. He took a vacation.
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 149-150 | Added on Monday, 5 April 2021 16:30:03
+
+Henri Poincaré was a nineteenth-century mathematician who once described how he cracked a difficult mathematical problem that he had been intensively working on for weeks without success. He took a vacation.
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Note at location 150 | Added on Monday, 5 April 2021 16:30:17
+
+The mathematician
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 205-205 | Added on Monday, 5 April 2021 16:40:33
+
+ineptitude
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 205-205 | Added on Monday, 5 April 2021 16:40:42
+
+flunking
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 218-218 | Added on Monday, 5 April 2021 16:44:41
+
+crotchety
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 218-218 | Added on Monday, 5 April 2021 16:45:01
+
+sweltering
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 299-299 | Added on Monday, 5 April 2021 16:52:26
+
+obliterating
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 324-327 | Added on Monday, 5 April 2021 16:56:02
+
+Focused-mode thinking is essential for studying math and science. It involves a direct approach to solving problems using rational, sequential, analytical approaches. The focused mode is associated with the concentrating abilities of the brain’s prefrontal cortex, located right behind your forehead.4 Turn your attention to something and bam—the focused mode is on, like the tight, penetrating beam of a flashlight.
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 331-334 | Added on Monday, 5 April 2021 16:56:59
+
+forehead. Diffuse-mode thinking is also essential for learning math and science. It allows us to suddenly gain a new insight on a problem we’ve been struggling with and is associated with “big-picture” perspectives. Diffuse-mode thinking is what happens when you relax your attention and just let your mind wander. This relaxation can allow different areas of the brain to hook up and return valuable insights. Unlike the focused mode, the diffuse mode seems less affiliated with any one area of the brain—you can think
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 336-336 | Added on Monday, 5 April 2021 16:57:55
+
+preliminary
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 355-355 | Added on Monday, 5 April 2021 17:01:08
+
+conjugation
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 390-392 | Added on Monday, 5 April 2021 17:07:29
+
+science is another challenge. It’s called the Einstellung effect (pronounced EYE-nshtellung). In this phenomenon, an idea you already have in mind, or your simple initial thought, prevents a better idea or solution from being found.
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 419-421 | Added on Monday, 5 April 2021 17:12:23
+
+you are trying to understand or figure out something new, your best bet is to turn off your precision-focused thinking and turn on your “big picture” diffuse mode,
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 419-421 | Added on Monday, 5 April 2021 17:12:33
+
+one area. If you are trying to understand or figure out something new, your best bet is to turn off your precision-focused thinking and turn on your “big picture” diffuse mode,
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 419-421 | Added on Monday, 5 April 2021 17:12:47
+
+If you are trying to understand or figure out something new, your best bet is to turn off your precision-focused thinking and turn on your “big picture” diffuse mode,
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 422-423 | Added on Monday, 5 April 2021 17:13:07
+
+COUNTERINTUITIVE
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 428-429 | Added on Monday, 5 April 2021 17:14:17
+
+situation where this does not apply. Ultimately, this means that relaxation is an important part of hard work—and good work, for that matter.”
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 428-430 | Added on Monday, 5 April 2021 17:14:27
+
+Ultimately, this means that relaxation is an important part of hard work—and good work, for that matter.” —Shaun Wassell, freshman, computer engineering
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 450-450 | Added on Monday, 5 April 2021 17:20:27
+
+erroneously
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Highlight at location 458-458 | Added on Monday, 5 April 2021 17:21:53
+
+“Befuddlement
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Bookmark at location 2 | Added on Monday, 5 April 2021 17:36:49
+
+
+==========
+A Mind For Numbers: How to Excel at Math and Science \(Even if You Flunked Algebra\) \( PDFDrive.com \).mobi (Barbara Oakley)
+- Your Bookmark at location 463 | Added on Monday, 5 April 2021 17:38:15
+
+
+==========
+Ancient and Modern Celebrated Freethinkers / Reprinted From an English Work, Entitled "Half-Hours With The Freethinkers." (Charles Bradlaugh)
+- Your Highlight at location 50-50 | Added on Saturday, 17 April 2021 01:20:47
+
+cognomen
+==========
+Ancient and Modern Celebrated Freethinkers / Reprinted From an English Work, Entitled "Half-Hours With The Freethinkers." (Charles Bradlaugh)
+- Your Highlight at location 52-52 | Added on Saturday, 17 April 2021 01:21:17
+
+Armada,
+==========
+A Million Miles in a Thousand Years: What I Learned While Editing My Life \( PDFDrive.com \).mobi (Donald Miller)
+- Your Highlight at location 169-170 | Added on Thursday, 20 May 2021 00:41:14
+
+When I looked over at her mother, Danielle’s eyes told me life was about more than sunsets and romance. It was as though having a baby made all the fairy tales come true for her, as though she were a painter who discovered a color all new to the world.
+==========
+A Million Miles in a Thousand Years: What I Learned While Editing My Life \( PDFDrive.com \).mobi (Donald Miller)
+- Your Highlight at location 170-170 | Added on Thursday, 20 May 2021 00:41:43
+
+who discovered a color all new to the world.
+==========
+A Million Miles in a Thousand Years: What I Learned While Editing My Life \( PDFDrive.com \).mobi (Donald Miller)
+- Your Highlight at location 169-170 | Added on Thursday, 20 May 2021 00:41:47
+
+When I looked over at her mother, Danielle’s eyes told me life was about more than sunsets and romance. It was as though having a baby made all the fairy tales come true for her, as though she were a painter who discovered a color all new to the world.
+==========
+A Million Miles in a Thousand Years: What I Learned While Editing My Life \( PDFDrive.com \).mobi (Donald Miller)
+- Your Highlight at location 204-204 | Added on Thursday, 20 May 2021 07:56:44
+
+my mouth until my brain went numb. And when my brain
+==========
+Skin in the Game (Nassim Nicholas Taleb)
+- Your Highlight at location 895-895 | Added on Sunday, 30 May 2021 11:57:17
+
+proto-aristocrats
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 51-51 | Added on Monday, 13 December 2021 08:14:58
+
+André Gide
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 51-52 | Added on Monday, 13 December 2021 08:15:12
+
+“Everything that needs to be said has already been said. But, since no one was listening, everything must be said again.”
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 57-60 | Added on Monday, 13 December 2021 08:16:49
+
+Here’s a trick they teach you in art school. Draw two parallel lines on a piece of paper: How many lines are there? There’s the first line, the second line, but then there’s a line of negative space that runs between them. See it? 1 + 1 = 3.
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Note at location 86 | Added on Monday, 13 December 2021 08:21:39
+
+Quote from jim jarmusch
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 81-86 | Added on Monday, 13 December 2021 08:21:39
+
+with inspiration or fuels your imagination. Devour old films, new films, music, books, paintings, photographs, poems, dreams, random conversations, architecture, bridges, street signs, trees, clouds, bodies of water, light and shadows. Select only things to steal from that speak directly to your soul. If you do this, your work (and theft) will be authentic.” —Jim Jarmusch
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 131-132 | Added on Monday, 13 December 2021 08:25:10
+
+“psychological phenomenon in which people are unable to internalize their accomplishments.”
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 181-184 | Added on Monday, 13 December 2021 10:09:46
+
+“We want you to take from us. We want you, at first, to steal from us, because you can’t steal. You will take what we give you and you will put it in your own voice and that’s how you will find your voice. And that’s how you begin. And then one day someone will steal from you.”
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Note at location 184 | Added on Monday, 13 December 2021 10:10:00
+
+Quote by
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 189-192 | Added on Monday, 13 December 2021 10:11:46
+
+Conan O’Brien has talked about how comedians try to emulate their heroes, fall short, and end up doing their own thing. Johnny Carson tried to be Jack Benny but ended up Johnny Carson. David Letterman tried to copy Johnny Carson but ended up David Letterman. And Conan O’Brien tried to be David Letterman but ended up Conan O’Brien. In O’Brien’s words,
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Note at location 192 | Added on Monday, 13 December 2021 10:11:55
+
+List of comedians
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 529-530 | Added on Monday, 13 December 2021 10:20:40
+
+No holidays, no 124 sick days. Don’t stop. What you’ll probably find is that the corollary to Parkinson’s Law is usually true: Work gets done in the time available.
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Note at location 530 | Added on Monday, 13 December 2021 10:21:01
+
+Parkinson's law
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 582-584 | Added on Monday, 13 December 2021 10:24:12
+
+children’s books of all time. “Telling yourself you have all the time in the world, all the money in the world, all the colors in the palette, anything you want—that
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 582-584 | Added on Monday, 13 December 2021 10:24:21
+
+children’s books of all time. “Telling yourself you have all the time in the world, all the money in the world, all the colors in the palette, anything you want—that
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 582-583 | Added on Monday, 13 December 2021 10:24:28
+
+children’s books of all time. “Telling yourself you have all the time in the world, all the money in the world, all the colors
+==========
+Steal Like an Artist \( PDFDrive.com \).mobi (Austin Kleon)
+- Your Highlight at location 582-585 | Added on Monday, 13 December 2021 10:24:38
+
+“Telling yourself you have all the time in the world, all the money in the world, all the colors in the palette, anything you want—that just kills creativity.” —Jack White
+==========
